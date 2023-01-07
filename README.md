@@ -1,6 +1,6 @@
 ## Feed
 
-Next + React + Stitches + Stripe
+Next + React + Stitches + Stripe + Keen Slider
 
 ## Layout
 ![Screenshot](/src/assets/banner.png)
